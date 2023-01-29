@@ -1,0 +1,7 @@
+Package:message-admin
+Version:1.0-3
+Maintainer:roma555@yandex.ru
+Depends:postfix,mailutils
+Architecture:all
+Section:admin
+Description:Отправка уведомлений по почте с использование postfix спутник, файлы конфигурации уже предустановлены

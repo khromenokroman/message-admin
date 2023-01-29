@@ -1,0 +1,3 @@
+#!/usr/bin/bash
+#apt remove postfix
+#apt remove mailutils 

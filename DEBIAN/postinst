@@ -1,0 +1,3 @@
+#!/usr/bin/bash
+postmap /etc/postfix/private/{sasl_passwd,sender_relay}
+systemctl restart postfix

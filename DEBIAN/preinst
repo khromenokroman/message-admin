@@ -1,0 +1,5 @@
+#!/usr/bin/bash
+echo "************************************"
+echo "настройки хранятся тут /etc/postfix/main.cfg"
+echo "сертификат майла /etc/postfix/ca.pem"
+echo "логин\пароль /etc/postfix/private/sasl_passwd"
